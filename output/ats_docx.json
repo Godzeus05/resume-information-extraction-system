@@ -1,0 +1,39 @@
+{
+  "name": "Gagan Tej R T",
+  "email": "rtgagantej@gmail.com",
+  "phone": "+91 8660574011",
+  "skills": [
+    "3D Image Processing",
+    "Digital Electronics",
+    "Image Processing",
+    "Data Analysis",
+    "Raspberry Pi",
+    "IoT Systems",
+    "JavaScript",
+    "MS Excel",
+    "Arduino",
+    "Python",
+    "MySQL",
+    "Java",
+    "HTML",
+    "DBMS",
+    "C++",
+    "IoT",
+    "C"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Electronics and Communication Engineering",
+      "institution": "RNS Institute of Technology, Bengaluru"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Engineering Intern",
+      "company": "Flight Test Centre, Rotary Wing Research & Design Centre, Bengaluru",
+      "duration": "Aug 2022 - Sep 2022"
+    }
+  ],
+  "linkedin": null,
+  "github": null
+}

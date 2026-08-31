@@ -1,0 +1,58 @@
+{
+  "name": "Gagantej Rt",
+  "email": "rtgagantej@gmail.com",
+  "phone": "+91 86605 74011",
+  "skills": [
+    "MS PowerPoint",
+    "Embedded C",
+    "MS Excel",
+    "MS Word",
+    "Python",
+    "MATLAB",
+    "Java",
+    "C"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Electronics and Communication Engineering",
+      "institution": "RNS Institute of Technology, Bengaluru"
+    },
+    {
+      "degree": "Pre-University (12th)",
+      "institution": "RNS Pre University, Bengaluru"
+    },
+    {
+      "degree": "CBSE (10th)",
+      "institution": "Sri Aurobindo Memorial School, Bengaluru"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Team Administrator",
+      "company": "FIBA",
+      "duration": null
+    },
+    {
+      "job_title": "Basketball Coach",
+      "company": "Young Bulls Basketball Club",
+      "duration": null
+    },
+    {
+      "job_title": "Basketball Coach",
+      "company": "Soundarya School",
+      "duration": "1 Year"
+    },
+    {
+      "job_title": "Basketball Coach",
+      "company": "Euro School",
+      "duration": "1 Year"
+    },
+    {
+      "job_title": "Basketball Coach",
+      "company": "Delhi Public School Summer Camp",
+      "duration": "2 Months"
+    }
+  ],
+  "linkedin": null,
+  "github": null
+}
