@@ -1,6 +1,7 @@
 # Resume Information Extraction System
 
 A deterministic, rule-based Python implementation of the internship assignment.
+Resume Information Extraction System (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Godzeus05/resume-information-extraction-system/blob/main/Resume_extraction_system.ipynb)
 
 ## This version is tailored to the supplied resumes
 
